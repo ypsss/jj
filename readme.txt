@@ -3,12 +3,4 @@ Git is free software.
 Git yyds
 Git nb
 Git yynb
-djdjdjdjdj
-ddaadadada
-woshinibaba
-Creating a new branch is quick AND simple.
-Creating a new branch is quick & simple.
-
-
-~
-
+Creating a new branch is quick AND simple
